@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>heroku-toolbelt</id>
+    <title>Heroku Toolbelt</title>
+    <version>0.1.0</version>
+    <authors>wcdolphin</authors>
+    <owners>wcdolphin</owners>
+    <summary>The Heroku Toolbelt, in all of its glory.</summary>
+    <description>The Heroku toolbelt--Once installed, you'll have access to the heroku command from your command shell. Read more at https://toolbelt.heroku.com/</description>
+    <projectUrl>https://toolbelt.heroku.com/</projectUrl>
+    <tags>heroku web ruby</tags>
+    <licenseUrl>https://policy.heroku.com/tos</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://nav.heroku.com/images/logos/logo.png</iconUrl>
+  </metadata>
+</package>
